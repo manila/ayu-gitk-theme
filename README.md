@@ -1,26 +1,27 @@
-# Dracula for [gitk](https://git-scm.com/docs/gitk)
+# Ayu for [gitk](https://git-scm.com/docs/gitk)
 
-> A dark theme for [gitk](https://git-scm.com/docs/gitk).
+> Dark theme for [gitk](https://git-scm.com/docs/gitk).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/gitk](https://draculatheme.com/gitk).
+### [Gitk](https://git-scm.com/docs/gitk)
 
-## Team
+#### Install using Git
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gitk/graphs/contributors).
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-| [![AurelienLourot](https://avatars0.githubusercontent.com/u/11795312?v=4&s=70)](https://github.com/AurelienLourot) |
-| ------------------------------------------------------------------------------------------------------------------ |
-| [Aurelien Lourot](https://github.com/AurelienLourot)                                                               |
+    git clone https://github.com/manila/ayu-gitk-theme.git
 
-## Community
+#### Install manually
 
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+Download using the [GitHub .zip download](https://github.com/manila/ayu-gitk-theme/archive/master.zip) option and unzip them.
+
+#### Activating theme
+
+1.  `mkdir -p ~/.config/git`
+2.  `cp gitk/ayu-dark-gitk ~/.config/git/gitk`
 
 ## License
 
