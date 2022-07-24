@@ -6,8 +6,6 @@
 
 ## Install
 
-### [Gitk](https://git-scm.com/docs/gitk)
-
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
